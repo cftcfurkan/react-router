@@ -1,9 +1,3 @@
-# React Router Examples: `exact` Prop and URL Parameters
-
-![React Router](https://example.com/react-router-logo.png)
-
-Welcome to the **React Router Examples** repository! This collection of examples and tutorials is designed to help you master the usage of React Router's `exact` prop and URL parameters. React Router, a widely-used routing library for React applications, empowers developers to effectively manage navigation and URL structures within single-page applications.
-
 ## About React Router
 
 React Router simplifies the complexities of routing within your React projects. With its intuitive API, you can easily define routes, handle navigation, and maintain a seamless user experience. The `exact` prop plays a crucial role in ensuring precise route matching, while URL parameters enable dynamic data exchange via the URL.
@@ -14,9 +8,14 @@ React Router simplifies the complexities of routing within your React projects. 
 
 📂 **URL Parameters**: Discover the power of URL parameters in React Router. This section provides step-by-step tutorials on working with dynamic URL segments, extracting parameter values, and incorporating them into your components.
 
+📂 **Data Fetching with Axios**: Learn how to enhance your React Router applications by incorporating data fetching using `axios`. You'll explore examples of making asynchronous HTTP requests to APIs and integrating the fetched data into your components, providing dynamic content based on the URL parameters.
+
 ## How to Use
 
 1. Clone this repository to your local machine using the following command:
+2. Go to the application directory that you downloaded.
+3. Open the terminal and run the `npm install` command. This will install all of the application's dependencies.
+4. Run the `npm run dev` command. This will start the application's development server.
 
 
 
